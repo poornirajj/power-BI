@@ -1,0 +1,5 @@
+| Department ID | Department Name | Manager ID |
+| ------------- | --------------- | ---------- |
+| 101           | HR              | 1          |
+| 102           | Finance         | 2          |
+| 103           | Engineering     | 3          |

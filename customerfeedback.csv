@@ -1,0 +1,5 @@
+| Feedback ID | Date       | Product    | Region | Customer Type | Rating | Sentiment | Feedback Text                                  |
+| ----------- | ---------- | ---------- | ------ | ------------- | ------ | --------- | ---------------------------------------------- |
+| F001        | 2024-06-01 | Phone      | East   | Retail        | 4.5    | Positive  | Love the design and battery life               |
+| F002        | 2024-06-03 | Laptop     | West   | Corporate     | 3.0    | Neutral   | Performance is okay but expected more features |
+| F003        | 2024-06-04 | Headphones | North  | Retail        | 2.0    | Negative  | Poor sound quality and very uncomfortable      |

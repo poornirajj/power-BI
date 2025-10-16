@@ -1,0 +1,4 @@
+| Patient ID | Patient Name | Gender | Age | City     |
+| ---------- | ------------ | ------ | --- | -------- |
+| P001       | John Smith   | Male   | 45  | New York |
+| P002       | Jane Doe     | Female | 32  | Chicago  |

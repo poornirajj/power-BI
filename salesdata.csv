@@ -1,0 +1,6 @@
+| Order ID | Date       | Product | Category    | Amount | Cost | Customer ID |
+| -------- | ---------- | ------- | ----------- | ------ | ---- | ----------- |
+| 101      | 2024-01-05 | Laptop  | Electronics | 1200   | 800  | C001        |
+| 102      | 2024-01-07 | Phone   | Electronics | 800    | 500  | C002        |
+| 103      | 2024-01-10 | Mouse   | Accessories | 50     | 20   | C003        |
+| 104      | 2024-02-02 | Monitor | Electronics | 300    | 200  | C001        |

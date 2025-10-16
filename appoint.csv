@@ -1,0 +1,4 @@
+| Appointment ID | Patient ID | Doctor ID | Treatment ID | Appointment Date | Billing Amount |
+| -------------- | ---------- | --------- | ------------ | ---------------- | -------------- |
+| 1              | P001       | D01       | T01          | 2023-01-15       | 500            |
+| 2              | P002       | D02       | T02          | 2023-01-17       | 1200           |
