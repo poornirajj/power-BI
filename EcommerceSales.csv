@@ -1,0 +1,7 @@
+| OrderID | OrderDate  | CustomerID | ProductCategory | Region | TotalSales |
+| 101     | 2023-01-15 | C001       | Electronics     | North  | 500        |
+| 102     | 2023-02-20 | C002       | Clothing        | South  | 700        |
+| 103     | 2023-03-05 | C003       | Electronics     | West   | 450        |
+| 104     | 2023-04-10 | C004       | Furniture       | East   | 800        |
+| 105     | 2024-01-10 | C005       | Clothing        | North  | 900        |
+| 106     | 2024-02-15 | C006       | Electronics     | West   | 1100       |

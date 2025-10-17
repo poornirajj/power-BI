@@ -1,0 +1,10 @@
+| OrderID | Date       | Total_Sales | Category    |
+| ------- | ---------- | ----------- | ----------- |
+| 101     | 2023-01-15 | 500         | Electronics |
+| 102     | 2023-02-10 | 700         | Clothing    |
+| 103     | 2023-02-20 | 450         | Electronics |
+| 104     | 2023-03-05 | 800         | Furniture   |
+| 105     | 2023-03-20 | 600         | Electronics |
+| 106     | 2024-01-10 | 900         | Clothing    |
+| 107     | 2024-02-05 | 750         | Furniture   |
+| 108     | 2024-03-15 | 1100        | Electronics |
